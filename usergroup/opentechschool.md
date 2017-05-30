@@ -22,6 +22,7 @@ The RheinMain area is a huge area around Frankfurt where many web technology sta
 Homepage: <http://www.opentechschool.org/rheinmain/>
 
 
+
 Twitter: [@OTS_RM](https://twitter.com/@OTS_RM)
 
 

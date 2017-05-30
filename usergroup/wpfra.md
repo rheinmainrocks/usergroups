@@ -13,6 +13,8 @@ bitten, dass alle Teilnehmenden dies berücksichtigen.
 
 Homepage: <https://wpmeetup-frankfurt.de/>
 
+Meetup: <http://www.meetup.com/wpmeetup-frankfurt/>
+
 
 Twitter: [@WPFRA](https://twitter.com/@WPFRA) [#WPFRA](https://twitter.com/search?q=%23WPFRA)
 

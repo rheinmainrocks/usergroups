@@ -14,6 +14,7 @@ Homepage: <https://www.xing.com/de/communities/groups/management-3-dot-0-stammti
 
 
 
+
 XING: <https://www.xing.com/de/communities/groups/management-3-dot-0-stammtisch-frankfurt-d80b-1003992/>
 
 

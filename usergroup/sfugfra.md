@@ -10,6 +10,7 @@ Die erste Symfony UserGroup im Rhein-Main-Gebiet.
 Homepage: <http://sfugfra.github.io>
 
 
+
 Twitter: [@sfugfra](https://twitter.com/@sfugfra) [#sfugfra](https://twitter.com/search?q=%23sfugfra)
 
 

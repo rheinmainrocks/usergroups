@@ -15,6 +15,7 @@ Teilnehmer selbst.
 
 Homepage: <http://www.barcamp-rheinmain.de/>
 
+
 E-Mail: [info@netzkultur-rheinmain.de](mailto:info@netzkultur-rheinmain.de)
 
 Twitter: [@bc_rm](https://twitter.com/@bc_rm) [#bcrm13](https://twitter.com/search?q=%23bcrm13)

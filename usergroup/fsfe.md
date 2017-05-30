@@ -10,6 +10,7 @@ Treffen der Regional-Gruppe Rhein-Main der Free Software Foundation Europe
 Homepage: <http://wiki.fsfe.org/groups/Rhein-Main>
 
 
+
 Twitter: [@FSFErm](https://twitter.com/@FSFErm) [#FSFErm](https://twitter.com/search?q=%23FSFErm)
 
 

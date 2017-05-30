@@ -12,6 +12,7 @@ Homepage: <http://www.bitcoin-frankfurt.de/>
 
 
 
+
 Facebook: <https://www.facebook.com/BitcoinFrankfurt>
 
 

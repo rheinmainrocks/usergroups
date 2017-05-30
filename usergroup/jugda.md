@@ -12,6 +12,7 @@ Die JUG DA ist eine offene Non-Profit-Community mit dem Ziel
 Homepage: <http://www.jug-da.de>
 
 
+
 Twitter: [@JUG_DA](https://twitter.com/@JUG_DA)
 
 

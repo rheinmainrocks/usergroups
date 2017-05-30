@@ -9,6 +9,7 @@ This group is for anyone interested in the architecture of software systems. I s
 Homepage: <http://www.meetup.com/Frankfurt-Software-Architecture-Meetup/>
 
 
+
 Twitter: [@SArchFFM](https://twitter.com/@SArchFFM)
 
 

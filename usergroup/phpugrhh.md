@@ -10,6 +10,7 @@ Wir organisieren Vorträge zu PHP- und anderen Themen. Jede/r Interessierte ist 
 Homepage: <http://www.phpug-rheinhessen.de/>
 
 
+
 Twitter: [@phpugrhh](https://twitter.com/@phpugrhh) [#phpugrhh](https://twitter.com/search?q=%23phpugrhh)
 
 

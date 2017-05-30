@@ -10,6 +10,8 @@ Alle CMS-Interessierten sind herzlich willkommen!
 
 Homepage: <http://www.meetup.com/de-DE/NeosCMS-Flow-RheinMain>
 
+Meetup: <http://www.meetup.com/de-DE/NeosCMS-Flow-RheinMain>
+
 
 
 

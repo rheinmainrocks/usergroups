@@ -11,6 +11,7 @@ Interessenten sind immer willkommen.
 
 Homepage: <http://wiesbaden.freifunk.net>
 
+
 E-Mail: [info@freifunk-wiesbaden.de](mailto:info@freifunk-wiesbaden.de)
 
 Twitter: [@FreifunkWI](https://twitter.com/@FreifunkWI) [#FreifunkWI](https://twitter.com/search?q=%23FreifunkWI)

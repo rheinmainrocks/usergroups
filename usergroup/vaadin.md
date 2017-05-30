@@ -18,5 +18,6 @@ Homepage: <http://www.meetup.com/Vaadin-Frankfurt/>
 
 
 
+
 Logo: [Ville Ingman](http://www.meetup.com/Vaadin-Frankfurt/photos/17949332/294903522/#294903522)
 

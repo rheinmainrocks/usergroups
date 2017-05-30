@@ -8,6 +8,7 @@ OWASP ist eine unabhängige, weltweite Community mit dem Ziel, die Bedeutung der
 Homepage: <https://www.owasp.org/index.php/OWASP_German_Chapter_Stammtisch_Initiative/Frankfurt>
 
 
+
 Twitter: [@OWASP_f](https://twitter.com/@OWASP_f)
 
 

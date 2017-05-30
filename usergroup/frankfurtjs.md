@@ -9,6 +9,8 @@ Lechelt, Christoph Martens and Eugene Terehov.
 
 Homepage: <http://www.frankfurtjs.org/>
 
+Meetup: <http://www.meetup.com/frankfurtJS/>
+
 
 Twitter: [@FrankfurtJS](https://twitter.com/@FrankfurtJS) [#FrankfurtJS](https://twitter.com/search?q=%23FrankfurtJS)
 

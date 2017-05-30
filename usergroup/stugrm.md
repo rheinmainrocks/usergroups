@@ -12,6 +12,7 @@ Die Teilnahme an den Treffen ist selbstverständlich kostenlos.
 Homepage: <http://www.stugrm.de/>
 
 
+
 Twitter: [@stugrm](https://twitter.com/@stugrm) [#stugrm](https://twitter.com/search?q=%23stugrm)
 
 

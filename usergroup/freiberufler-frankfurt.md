@@ -13,6 +13,7 @@ Den Frankfurter Freiberufler-Stammtisch habe ich Anfang 2010 ins Leben gerufen. 
 
 Homepage: <http://yvonnepioch.de/frankfurter-freiberufler-stammtisch>
 
+
 E-Mail: [freiberufler@yvonnepioch.de](mailto:freiberufler@yvonnepioch.de)
 
 

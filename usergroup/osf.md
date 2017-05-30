@@ -25,6 +25,7 @@ unkonventionellen Atmosphäre.
 Homepage: <http://frankfurt.online-stammtisch.com/>
 
 
+
 Twitter: [@OSFrankfurt](https://twitter.com/@OSFrankfurt)
 
 Facebook: <http://www.facebook.com/online.stammtisch.frankfurt>

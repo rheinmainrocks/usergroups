@@ -29,6 +29,8 @@
 
 Homepage: <http://codefor.de/frankfurt/>
 
+Meetup: <http://www.meetup.com/OKLabFfm/>
+
 E-Mail: [frankfurt@codefor.de](mailto:frankfurt@codefor.de)
 
 Twitter: [@codeforffm](https://twitter.com/@codeforffm) [#opendataffm](https://twitter.com/search?q=%23opendataffm)

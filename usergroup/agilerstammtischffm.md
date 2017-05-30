@@ -14,6 +14,8 @@
 
 Homepage: <https://www.meetup.com/de-DE/Agiler-Stammtisch-Frankfurt/>
 
+Meetup: <http://www.meetup.com/de-DE/Agiler-Stammtisch-Frankfurt/>
+
 
 
 

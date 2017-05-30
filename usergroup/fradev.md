@@ -9,6 +9,8 @@ One big group focusing on coding. We gather all passionated developers in the Fr
 
 Homepage: <http://codingnight.co/>
 
+Meetup: <http://www.meetup.com/de-DE/Frankfurt-Developers/>
+
 
 
 

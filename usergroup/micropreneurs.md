@@ -10,6 +10,8 @@ I’d like to share with like-minded folks the joy, the hardships and the lesson
 
 Homepage: <http://www.meetup.com/Micropreneurs-am-Main-Frankfurt/>
 
+Meetup: <http://www.meetup.com/Micropreneurs-am-Main-Frankfurt/>
+
 
 
 

@@ -14,6 +14,8 @@ This group is for all people who are interested in education and #EdTech (educat
 
 Homepage: <http://www.meetup.com/Education-Technology-Rhein-Main/>
 
+Meetup: <http://www.meetup.com/Education-Technology-Rhein-Main/>
+
 
 Twitter: [@EdTechFRA](https://twitter.com/@EdTechFRA)
 

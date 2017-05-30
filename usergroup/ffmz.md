@@ -11,6 +11,7 @@ Darüber hinaus kümmern wir uns um die Abdeckung von Parteinheim und Wiesbaden.
 
 Homepage: <http://freifunk-mainz.de>
 
+
 E-Mail: [kontakt@freifunk-mainz.de](mailto:kontakt@freifunk-mainz.de)
 
 Twitter: [@FreifunkMainz](https://twitter.com/@FreifunkMainz) [#FreifunkMz](https://twitter.com/search?q=%23FreifunkMz)

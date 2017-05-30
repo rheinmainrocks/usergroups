@@ -10,6 +10,8 @@ Our goal is to connect, share experiences, learn and improve together.
 
 Homepage: <http://www.meetup.com/Women-Techmakers-FRM/>
 
+Meetup: <http://www.meetup.com/de-DE/Women-Techmakers-FRM/>
+
 
 Twitter: [@WTM_Frankfurt](https://twitter.com/@WTM_Frankfurt) [#WomenTechMakers](https://twitter.com/search?q=%23WomenTechMakers)
 

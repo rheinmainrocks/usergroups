@@ -8,6 +8,7 @@ Seit 2004 treffen sich einmal im Monat Typografie- und Schriftbegeisterte in Off
 Homepage: <https://www.facebook.com/pages/Typostammtisch-Offenbach/348203441925830>
 
 
+
 Twitter: [@typo_stammtisch](https://twitter.com/@typo_stammtisch)
 
 
