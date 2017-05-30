@@ -22,8 +22,8 @@
 
 	Schaut einfach vorbei! Wir freuen uns über neue Gesichter, die eigene Ideen mitbringen und uns unterstützen.
 
-        **Code und Daten for Frankfurt am Main!**
-    
+**Code und Daten for Frankfurt am Main!**
+
 
 ## Links &amp; Kontakt
 

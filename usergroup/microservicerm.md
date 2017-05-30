@@ -2,8 +2,8 @@
 ![Microservices Meetup Rhein Main](./microservicerm.logo.png)
 
 
-        Der Treffpunkt für alle, die sich für Microservice Architekturen interessieren. Egal ob ihr Systeme für Google und Netflix oder für den Shop um die Ecke baut, betreibt oder anderweitig betreut. In mehr oder weniger regelmäßigen Abständen wollen wir uns, in freundlicher Atmosphäre treffen und Erfahrungen austauschen sowie neue Ideen in diesem Bereich kennenleren und diskutieren.
-    
+Der Treffpunkt für alle, die sich für Microservice Architekturen interessieren. Egal ob ihr Systeme für Google und Netflix oder für den Shop um die Ecke baut, betreibt oder anderweitig betreut. In mehr oder weniger regelmäßigen Abständen wollen wir uns, in freundlicher Atmosphäre treffen und Erfahrungen austauschen sowie neue Ideen in diesem Bereich kennenleren und diskutieren.
+
 
 ## Links &amp; Kontakt
 

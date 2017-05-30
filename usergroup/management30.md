@@ -2,9 +2,9 @@
 ![Management 3.0 Stammtisch](./management30.logo.png)
 
 
-        Dieser Stammtisch bietet eine Plattform für Menschen, die sich bzgl. moderner und agiler Managementformen
-        austauschen möchten. Das Buch "Management 3.0" von Jurgen Appelo ist hier Ausgangspunkt.
-    
+Dieser Stammtisch bietet eine Plattform für Menschen, die sich bzgl. moderner und agiler Managementformen
+austauschen möchten. Das Buch "Management 3.0" von Jurgen Appelo ist hier Ausgangspunkt.
+
 
 ## Links &amp; Kontakt
 
