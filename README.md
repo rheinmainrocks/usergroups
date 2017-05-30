@@ -116,7 +116,6 @@
 1. [Vaadin Frankfurt](./usergroup/vaadin.md)
 1. [Webdev Meetup Taunus](./usergroup/webdevtaunus.md)
 1. [webgrrls Rhein-Main](./usergroup/webgrrls.md)
-1. [Webmontag Offenbach](./usergroup/wemoof.md)
 1. [Wikipedianer Frankfurt](./usergroup/wikipedia.md)
 1. [Webmontag Frankfurt](./usergroup/wmfra.md)
 1. [Workschoppe](./usergroup/workschoppe.md)
