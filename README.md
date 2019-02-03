@@ -114,6 +114,7 @@
 1. [TuXCamp – Das Linux-BarCamp](./usergroup/tuxcamp.md)
 1. [Usability Testessen](./usergroup/usability-testessen.md)
 1. [Vaadin Frankfurt](./usergroup/vaadin.md)
+1. [Vue.js Frankfurt](./usergroup/vuejs.md)
 1. [Webdev Meetup Taunus](./usergroup/webdevtaunus.md)
 1. [webgrrls Rhein-Main](./usergroup/webgrrls.md)
 1. [Wikipedianer Frankfurt](./usergroup/wikipedia.md)
