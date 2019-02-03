@@ -2,6 +2,8 @@
 
 ![Liste der Technologie-Usergroups in RheinMain](./logo.png)
 
+> :information_source: This is a conversion of the original XML-based data-source in [ugrm-data](https://github.com/rheinmainrocks/ugrm-data) which was used to dynamically generate a website with [ugrm](https://github.com/rheinmainrocks/ugrm), a Symfony-based project. This way we have a way of viewing the information without needing to host a webserver.
+
 1. [Frankfurt Agile Community](./usergroup/agile-community.md)
 1. [Agile Rhein-Main](./usergroup/agilerheinmain.md)
 1. [Agiler Stammtisch Frankfurt](./usergroup/agilerstammtischffm.md)
