@@ -1,0 +1,17 @@
+name: Python Stammtisch Darmstadt (PyStaDa)
+logo: pystada.logo.png
+description: |
+  In Darmstadt gibt es seit Februar 2014 einen Stammtisch zum Thema Python.
+
+  Wir verstehen uns als lockere Gemeinschaft, die sich zum Austausch über Projekte, Probleme und Ideen Rund um die Programmiersprache Python trifft.
+
+  Der Plan ist immer mal wieder einen Vortrag über ein Python Projekt oder ein Software-Handwerks-Thema wie Version Control oder ähnliches zu haben.
+
+  Die Treffen sind für alle Interessierten offen und werden im Pad grob geplant.
+links:
+  web: http://pystada.github.io/
+  twitter: https://twitter.com/PyStaDa
+  twitter_search: https://twitter.com/search?q=%23PyStaDa
+  mailinglist: https://lists.metarheinmain.de/mailman/listinfo/pystada
+status: undefined
+organizers: []

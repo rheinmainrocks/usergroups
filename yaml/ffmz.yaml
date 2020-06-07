@@ -1,0 +1,17 @@
+name: Freifunk Mainz (ffmz)
+logo: ffmz.logo.png
+decription: |
+  Wir sind die lokale Ortsgruppe für Freifunk in Mainz.
+  Unser Ziel ist es, ein vermaschtes WLAN-Netz über große Bereiche von
+  Mainz in Betrieb zu nehmen und zu unterhalten.
+  Darüber hinaus kümmern wir uns um die Abdeckung von Parteinheim und Wiesbaden.
+links:
+  web: http://freifunk-mainz.de
+  mail: kontakt@freifunk-mainz.de
+  twitter: https://twitter.com/FreifunkMainz
+  twitter_search: https://twitter.com/search?q=%23FreifunkMz
+  fb: https://www.facebook.com/FreifunkMainz
+  googleplus: https://plus.google.com/109829391285444937045
+  mailinglist: http://lists.freifunk.net/mailman/listinfo/mainz-freifunk.net
+status: undefined
+organizers: []

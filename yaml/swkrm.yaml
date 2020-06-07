@@ -1,0 +1,15 @@
+name: Softwerkskammer Rhein-Main (SWKRM)
+logo: swkrm.logo.png
+description: |
+  Wir sind eine Gruppe von Softwareentwicklern, die professionell Software entwickeln möchten.
+  Dazu tauschen wir Erfahrungen zu Themen wie Clean Code, Behaviour Driven Design, Test Driven Development,
+  Objekt-Orientiertem Design, Softwarearchitektur aber auch zu den sog. "Soft Skills" und den oft
+  vernachlässigten menschlichen Aspekten der Softwareentwicklung in einem Team.
+  Wir treffen uns durchschnittlich einmal im Monat wobei das stets wechselnde Rahmenthema für ein Treffen beim
+  vorherigen Treffen festgelegt werden.
+links:
+  web: http://softwerkskammer.org/groups/rheinmain
+  twitter: https://twitter.com/softwerkskammer
+  twitter_search: https://twitter.com/search?q=%23swkrm
+status: undefined
+organizers: []

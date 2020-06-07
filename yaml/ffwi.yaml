@@ -1,0 +1,16 @@
+name: Freifunk Wiesbaden (ffwi)
+logo: ffwi.logo.png
+description: |
+  Wir sind die Ortsgruppe für Freifunk in Wiesbaden und Umgebung.
+  Im Stadtgebiet soll nach und nach ein vermaschtes WLAN-Netz entstehen,
+  das dezentral organisiert, netzneutral und vor allem offen für jedermann ist.
+  Interessenten sind immer willkommen.
+links:
+  web: http://wiesbaden.freifunk.net
+  mail: info@freifunk-wiesbaden.de
+  twitter: https://twitter.com/FreifunkWI
+  twitter_search: https://twitter.com/search?q=%23FreifunkWI
+  fb: https://www.facebook.com/FreifunkWiesbaden
+  mailinglist: http://lists.freifunk.net/mailman/listinfo/wiesbaden-freifunk.net
+status: undefined
+organizers: []

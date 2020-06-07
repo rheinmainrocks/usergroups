@@ -1,0 +1,18 @@
+name: Java User Group Frankfurt (JUGF)
+logo: jugf.logo.png
+description: |
+  Die Java User Group Frankfurt ist ein lokaler Verbund von Entwicklern, die sich für Themen rund um die
+  Programmiersprache Java interessieren. Schwerpunkte der User Group sind die Themen Enterprise Applications mit
+  dem Spring Framework, Skriptsprachen auf der JVM: Groovy & Scala,
+  Fast Prototyping & Cloud Computing: Grails, Google App Engine & Co.
+  Wir versuchen, in regelmäßigen Treffen Informationen rund um diese Themen in lockerer Atmosphäre auszutauschen.
+  Nach Möglichkeit soll für jedes Treffen ein Thema festgelegt werden, über welches ein oder mehrere Teilnehmer
+  referieren.
+links:
+  web: http://www.jugf.de
+  twitter: https://twitter.com/jugffm
+  googleplus: https://plus.google.com/u/0/communities/116872166355404683062
+  xing: https://www.xing.com/net/pria6135dx/jugf/
+  mailinglist: https://groups.google.com/forum/?hl=en&fromgroups#!forum/jugf-java-user-group-frankfurt
+status: undefined
+organizers: []

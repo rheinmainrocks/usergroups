@@ -1,0 +1,11 @@
+name: Frontend Usergroup RheinMain
+logo: frontend.logo.png
+description: |
+  Frontend RheinMain ist der Community-Hub für Frontend-Entwickler im Rhein-Main-Gebiet. Dabei geht es um
+  Frontend-Kernthemen wie HTML(5), CSS(3), OOCSS-/BEM-Patterns, SASS, Webstandards, Responsive Design,
+  Accessibility, Arbeitsweisen, Kommunikation, Styleguides, Deployment etc pp. …
+links:
+  web: http://frontend-rheinmain.de/
+  twitter: https://twitter.com/frontend_rm
+status: undefined
+organizers: []

@@ -1,0 +1,15 @@
+name: Freifunk Darmstadt (ffda)
+logo: ffda.logo.png
+description: |
+  Wir wollen in Darmstadt eine Ortsgruppe für Freifunk aufbauen.
+  Unser Ziel ist es, ein vermeschtes WLAN-Netz über große Bereiche von
+  Darmstadt in Betrieb zu nehmen.
+links:
+  web: http://freifunk-darmstadt.de
+  twitter: https://twitter.com/FreifunkDA
+  twitter_search: https://twitter.com/search?q=%23FreifunkDA
+  mailinglist: http://lists.freifunk.net/mailman/listinfo/darmstadt-freifunk.net
+credits: |
+  Offizilles [Freifunk-Logo](https://wiki.freifunk.net/Datei:175x170_freifunknet.png)
+status: undefined
+organizers: []

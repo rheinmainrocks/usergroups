@@ -1,0 +1,22 @@
+name: Clojure Users Group Frankfurt am Main (CLJUGF)
+logo: cljugf.logo.png
+description: |
+  Ziel dieser user group ist es die Sprache
+  Clojure im Speziellen, funktionale
+  Programmierung im Allgemeinen besser zu
+  verstehen. Hierzu planen wir ein sogenanntes
+  Coding Dojo. Das heißt, wir werden aktiv Code
+  schreiben.
+
+  Ferner planen wir theoretische und praktische
+  Vorträge zu interessanten Themen.
+  Beispielsweise auch von Entwicklern, die
+  Clojure bereits seit einiger Zeit einsetzen.
+  So ergibt sich die Möglichkeit zum
+  Erfahrungsaustausch aus erster Hand.
+links:
+  web: http://kotka.de/cljugf.html
+  mail: mb@kotka.de
+  twitter: https://twitter.com/cljugf
+status: undefined
+organizers: []

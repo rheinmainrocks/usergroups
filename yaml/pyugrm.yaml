@@ -1,0 +1,17 @@
+name: Python UserGroup RheinMain (PyUGRM)
+logo: pyugrm.logo.png
+description:
+  Pythonistas aus dem Rhein-Main-Gebiet treffen sich alle
+  zwei Monate an wechselnden Locations im
+  Rhein-Main-Gebiet.
+  Ruby-Entwickler sind ebenfalls herzlich eingeladen.
+links:
+  web: http://pyugrm.de/
+  twitter: https://twitter.com/PyUGRM
+  twitter_search: https://twitter.com/search?q=%23PyUGRM
+  mailinglist: http://groups.google.com/group/pyugrm
+credits: |
+  Das Python-Logo stammt aus dem [Tango-Projekt](http://tango.freedesktop.org/).
+status: undefined
+organizers:
+  - refnode
