@@ -1,0 +1,6 @@
+[general]
+contrib=contrib-title-conventional-commits
+
+[contrib-title-conventional-commits]
+# Specify allowed commit types. For details see: https://www.conventionalcommits.org/
+types = fix,feat,ci,chore,docs,style,refactor,perf,test,revert

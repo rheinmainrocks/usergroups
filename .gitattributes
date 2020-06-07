@@ -1,0 +1,36 @@
+# https://git-scm.com/docs/gitattributes
+
+*                      text=auto
+*.patch                -text
+
+## BEGIN: GIT
+*.gitattributes        text eol=lf export-ignore
+.gitignore             text eol=lf export-ignore
+## END: GIT
+
+## BEGIN: MARKDOWN
+*.md                   text eol=lf
+## END: MARKDOWN
+
+## BEGIN: YAML
+*.yaml                 text eol=lf
+*.yml                  text eol=lf
+## END: YAML
+
+## BEGIN: JSON
+*.json                 text eol=lf
+## END: JSON
+
+## BEGIN: SHELL
+*.sh                   text eol=lf
+*.shell                text eol=lf
+*.bash                 text eol=lf
+*.zsh                  text eol=lf
+*.fish                 text eol=lf
+## END: SHELL
+
+## BEGIN: MAKEFILE
+Makefile               text eol=lf
+*.make                 text eol=lf
+*.mk                   text eol=lf
+## END: MAKEFILE
