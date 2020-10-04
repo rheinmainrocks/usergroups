@@ -6,7 +6,7 @@ OWASP ist eine unabhängige, weltweite Community mit dem Ziel, die Bedeutung der
 ## Links &amp; Kontakt
 
 * Meetup: <http://www.meetup.com/de/IT-Security-Stammtisch-Frankfurt-OWASP-u-w/>
-* Homepage: <https://www.owasp.org/index.php/OWASP_German_Chapter_Stammtisch_Initiative/Frankfurt>
-* Mailingliste: <https://lists.owasp.org/mailman/listinfo/owasp-frankfurt>
+* Homepage: <https://owasp.org/www-chapter-germany/stammtische/frankfurt/>
+* Mailingliste: <https://groups.google.com/a/owasp.org/forum/#!forum/germany-chapter>
 
 
